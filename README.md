@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://github.com/user-attachments/assets/16d23b08-1eb1-4e79-a602-fb993e428614" alt="giphy" width="100%"/>
+
+
 # Hi there 👋
 
 - 😄 Call me Toby, keepin’ life low-key.
